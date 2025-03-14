@@ -1,6 +1,6 @@
 # Financial-Performance-Dashboard
 
-##📊 Project Overview
+## 📊 Project Overview
 This Power BI dashboard provides a comprehensive view of financial performance, enabling users to analyze key metrics and gain insights into business trends. The dashboard is interactive and allows data slicing to uncover detailed insights.
 
 ##📝 Features
