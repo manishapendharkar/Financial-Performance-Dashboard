@@ -25,6 +25,6 @@ Track profit growth trends both quarterly and monthly.
 Compare total sales, profit, and units sold across different categories.
 
 ## Dashboard 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](/dashboard_overview.png)
 
 
